@@ -12,4 +12,6 @@ I figured this would be more straightforward than supposedly creating an array l
 
 Perhaps there is a more efficient way of doing this with more modern animation techniques, but I created this project as a way to practice the coding fundamentals that are used in a variety of different kinds of applications, and I learned a lot!
 
+This project took me about a month and a half.
+
 Thank you for taking the time to look at my work. Have a good day :)
